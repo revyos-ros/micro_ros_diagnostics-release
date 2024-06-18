@@ -1,3 +1,32 @@
+## micro_ros_diagnostics (jazzy) - 0.3.0-7
+
+The packages in the `micro_ros_diagnostics` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy micro_ros_diagnostics --override-release-repository-push-url git@github.com:revyos-ros/micro_ros_diagnostics-release` on `Tue, 18 Jun 2024 00:48:26 -0000`
+
+These packages were released:
+- `micro_ros_diagnostic_bridge`
+- `micro_ros_diagnostic_msgs`
+
+These packages were explicitly ignored:
+- `micro_ros_common_diagnostics`
+- `micro_ros_diagnostic_updater`
+
+Version of package(s) in repository `micro_ros_diagnostics`:
+
+- upstream repository: https://github.com/micro-ROS/micro_ros_diagnostics.git
+- release repository: https://github.com/revyos-ros/micro_ros_diagnostics-release.git
+- rosdistro version: `0.3.0-6`
+- old version: `0.3.0-6`
+- new version: `0.3.0-7`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## micro_ros_diagnostics (rolling) - 0.3.0-3
 
 The packages in the `micro_ros_diagnostics` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling micro_ros_diagnostics -e` on `Wed, 09 Feb 2022 08:22:38 -0000`
